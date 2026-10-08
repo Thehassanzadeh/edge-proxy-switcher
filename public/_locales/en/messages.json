@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "OnlyProxy",
+    "description": "Extension name shown in the store listing (read-only in Partner Center)."
+  },
+  "extensionDescription": {
+    "message": "Switch proxy profiles in Microsoft Edge with HTTP, HTTPS, SOCKS4, SOCKS5, and site-specific routing rules.",
+    "description": "Short store description from the manifest (read-only in Partner Center)."
+  }
+}
